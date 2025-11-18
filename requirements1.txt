@@ -8,7 +8,7 @@ sentence_transformers
 langchain_huggingface
 langchain_chroma
 pandas
-langchain-groq
+langchain_groq
 validators==0.28.1
 unstructured
 numexpr

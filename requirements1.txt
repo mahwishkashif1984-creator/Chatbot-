@@ -8,10 +8,9 @@ sentence_transformers
 langchain_huggingface
 langchain_chroma
 pandas
-langchain-groq
+
 validators==0.28.1
 unstructured
 numexpr
 huggingface_hub
 streamlit
-langchain_groq
